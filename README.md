@@ -102,6 +102,24 @@
 
 ![Alt text](img/3DHAIGQ.gif)
 
+##Conclusiones
+
+-Mis modelos predictivos testeados con  mi información no funcionaban igual que una vez subidos, incluso el peor modelo testado con mse funcionaba mejor que el que menor fallo tenía en mi mse
+
+-En general, los modelos utilizados con LabelEncoder funcionan mucho peor que los que ejecutamos el get_dummies
+
+![Alt text](img/giphy.gif)
+
+
+-Solamente ha mejorado el modelo un poco usando un GridSearch para buscar los mejores hiperparámetros aunque en mi mse eso no se reflejará pero una vez subido si había una ligera mejora
+
+![Alt text](img/images.jpeg)
+
+
+##GRACIAS
+
+
+
 
 
 
